@@ -8,7 +8,12 @@
 <p>El c&oacute;digo fuente actualizado y ejemplo de implementaci&oacute;n puede ser encontrado en su sitio de Github:&nbsp;<a class="external-link" href="https://github.com/PHPMailer/PHPMailer" rel="nofollow">https://github.com/PHPMailer/PHPMailer</a></p>
 <h3 id="EnviodemaildesdePHPconPHPMailer-Ejemplodeenv&iacute;odirecto">Uso</h3>
 <ol>
-<li>Clon&aacute; este repositorio en tu PC (usando Git o descargando como ZIP directo desde este link:&nbsp;<a href="https://github.com/PHPMailer/PHPMailer/archive/master.zip">https://github.com/PHPMailer/PHPMailer/archive/master.zip</a>)</li>
+<li>Clon&aacute; este repositorio en tu PC
+<ol>
+<li>usando Git: git clone&nbsp;<a href="https://github.com/wnpower/Hosting-PHPMailer.git">https://github.com/wnpower/Hosting-PHPMailer.git</a>&nbsp;&amp;&amp; cd Hosting-PHPMailer &amp;&amp; git pull --recurse-submodules</li>
+<li>Descargando el ZIP directo:&nbsp;<a href="https://github.com/PHPMailer/PHPMailer/archive/master.zip">https://github.com/PHPMailer/PHPMailer/archive/master.zip</a>. Descomprimir. Luego bajar el de PHPMailer (<a href="https://github.com/PHPMailer/PHPMailer/archive/master.zip">https://github.com/PHPMailer/PHPMailer/archive/master.zip</a>) y descomprimir en la carpeta "PHPMailer" de este repositorio</li>
+</ol>
+</li>
 <li>
 <p>Modific&aacute; o tom&aacute; de ejemplo el archivo "ejemplo.php" para implementarlo en tu aplicaci&oacute;n</p>
 </li>
