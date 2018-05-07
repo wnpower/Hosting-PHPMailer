@@ -17,4 +17,5 @@
 <li>
 <p>Modific&aacute; o tom&aacute; de ejemplo el archivo "ejemplo.php" para implementarlo en tu aplicaci&oacute;n</p>
 </li>
+<li>Subilo a tu Hosting</li>
 </ol>
