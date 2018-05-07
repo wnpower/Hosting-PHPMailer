@@ -11,7 +11,7 @@
 <li>Clon&aacute; este repositorio en tu PC
 <ol>
 <li>usando Git: git clone&nbsp;<a href="https://github.com/wnpower/Hosting-PHPMailer.git">https://github.com/wnpower/Hosting-PHPMailer.git</a>&nbsp;&amp;&amp; cd Hosting-PHPMailer &amp;&amp; git pull --recurse-submodules</li>
-<li>Descargando el ZIP directo:&nbsp;<a href="https://github.com/PHPMailer/PHPMailer/archive/master.zip">https://github.com/PHPMailer/PHPMailer/archive/master.zip</a>. Descomprimir. Luego bajar el de PHPMailer (<a href="https://github.com/PHPMailer/PHPMailer/archive/master.zip">https://github.com/PHPMailer/PHPMailer/archive/master.zip</a>) y descomprimir en la carpeta "PHPMailer" de este repositorio</li>
+<li>Descargando el ZIP directo:&nbsp;<a href="https://github.com/wnpower/Hosting-PHPMailer/archive/master.zip">https://github.com/wnpower/Hosting-PHPMailer/archive/master.zip</a>. Descomprimir. Luego bajar el de PHPMailer (<a href="https://github.com/PHPMailer/PHPMailer/archive/master.zip">https://github.com/PHPMailer/PHPMailer/archive/master.zip</a>) y descomprimir en la carpeta "PHPMailer" de este repositorio</li>
 </ol>
 </li>
 <li>
