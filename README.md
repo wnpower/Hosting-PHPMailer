@@ -19,3 +19,7 @@
 </li>
 <li>Subilo a tu Hosting</li>
 </ol>
+
+## Ayuda
+
+https://help.wnpower.com/hc/es/articles/360018221012-C%C3%B3mo-enviar-correos-mediante-PHP
