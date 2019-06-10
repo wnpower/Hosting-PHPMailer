@@ -16,6 +16,10 @@ try {
     $mail->Password = 'MiPa33W0rD';                           // Password SMTP
     $mail->SMTPSecure = 'tls';                            // Activar seguridad TLS
     $mail->Port = 587;                                    // Puerto SMTP
+
+    #$mail->SMTPOptions = ['ssl'=> ['allow_self_signed' => true]];  // Descomentar si el servidor SMTP tiene un certificado autofirmado
+    #$mail->SMTPSecure = false;				// Descomentar si se requiere desactivar cifrado (se suele usar en conjunto con la siguiente línea)
+    #$mail->SMTPAutoTLS = false;			// Descomentar si se requiere desactivar completamente TLS (sin cifrado)
  
     $mail->setFrom('remitente@midominio.com');		// Mail del remitente
     $mail->addAddress('destinatario@gmail.com');     // Mail del destinatario
