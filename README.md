@@ -22,4 +22,4 @@
 
 ## Ayuda
 
-https://help.wnpower.com/hc/es/articles/360018221012-C%C3%B3mo-enviar-correos-mediante-PHP
+https://help.wnpower.com/hc/es/articles/360022856251-C%C3%B3mo-enviar-correos-desde-PHP-usando-SMTP-autenticado
